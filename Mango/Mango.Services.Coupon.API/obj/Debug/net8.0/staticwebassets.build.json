@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CDGL6cHFo2JjSEnNL6Ikgttcu/jXB6dbAl4dOBTjtrc=",
+  "Source": "Mango.Services.Coupon.API",
+  "BasePath": "_content/Mango.Services.Coupon.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
