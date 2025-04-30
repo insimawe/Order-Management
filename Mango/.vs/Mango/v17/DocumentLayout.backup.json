@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.services.coupon.api\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.coupon.api\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\coupon\\couponupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\couponupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.services.coupon.api\\model\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.coupon.api\\model\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.services.coupon.api\\model\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.coupon.api\\model\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -57,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.services.coupon.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A80F8528-90B8-46E0-9196-6E37967CA8B0}|Mango.Services.Coupon.API\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.coupon.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0B009EF-B80E-4966-9278-61C7281BB24B}|Mango.Web\\Mango.Web.csproj|c:\\users\\lynsie marie\\desktop\\projects\\.net\\order-management\\mango\\mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,45 +135,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T17:01:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CouponUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponUpdate.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponUpdate.cshtml",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponUpdate.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:51:00.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\CouponService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\CouponService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:47:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CouponDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:36:41.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:22:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CouponCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
+              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:11:55.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CouponIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-28T15:50:20.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CouponController.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CouponController.cs",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
               "RelativeToolTip": "Mango.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T15:32:41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-28T15:18:55.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "Mango.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -166,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Model\\Coupon.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Model\\Coupon.cs",
@@ -179,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
@@ -187,12 +285,11 @@
               "RelativeToolTip": "Mango.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-28T14:59:07.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:59:07.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\MappingConfig.cs",
@@ -200,25 +297,24 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:55:18.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:55:18.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CouponAPIController.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Controllers\\CouponAPIController.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Controllers\\CouponAPIController.cs",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Controllers\\CouponAPIController.cs",
               "RelativeToolTip": "Mango.Services.Coupon.API\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:54:34.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Data\\AppDbContext.cs",
@@ -226,12 +322,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:51:27.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:51:27.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Model\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Model\\Dto\\ResponseDto.cs",
@@ -239,12 +334,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\Model\\Dto\\ResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:51:25.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:51:25.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CouponDto.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Model\\Dto\\CouponDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Model\\Dto\\CouponDto.cs",
@@ -252,12 +346,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\Model\\Dto\\CouponDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:51:24.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T14:51:24.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
@@ -265,12 +358,11 @@
               "RelativeToolTip": "Mango.Web\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:21:39.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:21:39.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Properties\\launchSettings.json",
@@ -278,12 +370,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T16:19:39.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:19:39.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\appsettings.json",
@@ -291,12 +382,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T16:19:31.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:19:31.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Services.Coupon.API\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.Coupon.API\\Program.cs",
@@ -304,25 +394,11 @@
               "RelativeToolTip": "Mango.Services.Coupon.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:16:19.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:16:19.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CouponService.cs",
-              "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\CouponService.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Service\\CouponService.cs",
-              "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\CouponService.cs",
-              "RelativeToolTip": "Mango.Web\\Service\\CouponService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:12:28.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Models\\ResponseDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\ResponseDto.cs",
@@ -330,38 +406,37 @@
               "RelativeToolTip": "Mango.Web\\Models\\ResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:10:48.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:10:48.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "CouponDto.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Models\\CouponDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\CouponDto.cs",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Models\\CouponDto.cs",
               "RelativeToolTip": "Mango.Web\\Models\\CouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:05:28.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "ICouponService.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\IService\\ICouponService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\ICouponService.cs",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\IService\\ICouponService.cs",
               "RelativeToolTip": "Mango.Web\\Service\\IService\\ICouponService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:04:52.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Utility\\SD.cs",
@@ -369,12 +444,11 @@
               "RelativeToolTip": "Mango.Web\\Utility\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:59:33.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:59:33.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "RequestDto.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Models\\RequestDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\RequestDto.cs",
@@ -382,25 +456,24 @@
               "RelativeToolTip": "Mango.Web\\Models\\RequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:59:30.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:59:30.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
               "ToolTip": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\BaseService.cs",
               "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T15:46:32.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "C:\\Users\\Lynsie Marie\\Desktop\\Projects\\.Net\\Order-Management\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IBaseService.cs",
@@ -408,8 +481,7 @@
               "RelativeToolTip": "Mango.Web\\Service\\IService\\IBaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:43:30.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:43:30.117Z"
             }
           ]
         }
