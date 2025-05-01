@@ -55,6 +55,14 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23177.8, )"
+            },
+            "Microsoft.AspNetCore.OpenAPI": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23177.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.4, )"
