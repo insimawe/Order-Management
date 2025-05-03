@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Mango.Services.AuthAPI.Controllers
 {
-    [Route("api/auth")]
+    [Route("api/Auth")]
     [ApiController]
     public class AuthAPIController : ControllerBase
     {
@@ -18,7 +18,7 @@ namespace Mango.Services.AuthAPI.Controllers
             _response = new();  
         }
 
-        [HttpPost("register")]
+        [HttpPost("Register")]
         public async Task<IActionResult> Register([FromBody] RegistrationRequestDto model)
         {
             var errorMessage = await _authService.Register(model);
@@ -32,7 +32,7 @@ namespace Mango.Services.AuthAPI.Controllers
            return Ok(_response);
         }
 
-        [HttpPost("login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody] LoginRequestDto model)
         {
             var loginResponse = await _authService.Login(model);

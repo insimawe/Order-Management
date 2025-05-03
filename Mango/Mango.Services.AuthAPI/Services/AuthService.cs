@@ -101,7 +101,9 @@ namespace Mango.Services.AuthAPI.Services
                     //create role if it does not exist
                     _roleManager.CreateAsync(new IdentityRole(roleName)).GetAwaiter().GetResult();
                 }
-                await _userManager.AddToRoleAsync(user, roleName);
+                await _userManager
+                    
+                    .AddToRoleAsync(user, roleName);
                 return true;
             }
             return false;

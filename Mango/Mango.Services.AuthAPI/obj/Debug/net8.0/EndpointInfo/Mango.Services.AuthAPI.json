@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/auth/register": {
+    "/api/Auth/Register": {
       "post": {
         "tags": [
           "AuthAPI"
@@ -36,7 +36,7 @@
         }
       }
     },
-    "/api/auth/login": {
+    "/api/Auth/Login": {
       "post": {
         "tags": [
           "AuthAPI"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/api/auth/AssignRole": {
+    "/api/Auth/AssignRole": {
       "post": {
         "tags": [
           "AuthAPI"
