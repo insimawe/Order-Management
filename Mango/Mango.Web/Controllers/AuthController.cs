@@ -48,7 +48,7 @@ namespace Mango.Web.Controllers
             }
             else
             {
-                ModelState.AddModelError("CustomError", responseDto.Message);
+                TempData["error"] = responseDto.Message;
                 return View(obj);
             }
 
@@ -91,6 +91,10 @@ namespace Mango.Web.Controllers
                     TempData["error"] = assignRole?.Message;
                 }
             }
+            else
+            {
+                TempData["error"] = result?.Message;
+            }
 
             var roleList = new List<SelectListItem>()
             {
@@ -127,6 +131,8 @@ namespace Mango.Web.Controllers
             //for .net Identity
             identity.AddClaim(new Claim(ClaimTypes.Name,
                 jwt.Claims.FirstOrDefault(u => u.Type == JwtRegisteredClaimNames.Email).Value));
+            identity.AddClaim(new Claim(ClaimTypes.Role,
+                jwt.Claims.FirstOrDefault(u => u.Type == "role").Value));
 
             var principal = new ClaimsPrincipal(identity);
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
