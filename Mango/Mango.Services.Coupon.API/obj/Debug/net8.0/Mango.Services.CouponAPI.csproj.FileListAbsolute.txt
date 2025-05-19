@@ -1,3 +1,7 @@
+C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\appsettings.json
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Mango.Services.CouponAPI.staticwebassets.endpoints.json
@@ -48,7 +52,6 @@ C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Service
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.ClientModel.dll
@@ -62,7 +65,6 @@ C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Service
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\System.Runtime.Caching.dll
@@ -85,7 +87,6 @@ C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Service
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -136,7 +137,6 @@ C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Service
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.Coupon.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
