@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Mango.Services.ProductAPI.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
+    //[Authorize]
     public class ProductAPIController : ControllerBase
     {
         private readonly AppDbContext _db;
@@ -84,7 +87,7 @@ namespace Mango.Services.ProductAPI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "ADMIN")]
+      //  [Authorize(Roles = "ADMIN")]
         public ResponseDto Post([FromBody] ProductDto ProductDto)
         {
             try
@@ -105,7 +108,7 @@ namespace Mango.Services.ProductAPI.Controllers
         }
 
         [HttpPut]
-        [Authorize(Roles = "ADMIN")]
+       // [Authorize(Roles = "ADMIN")]
         public ResponseDto Put([FromBody] ProductDto ProductDto)
         {
             try
@@ -127,7 +130,7 @@ namespace Mango.Services.ProductAPI.Controllers
 
         [HttpDelete]
         [Route("{id:int}")]
-        [Authorize(Roles = "ADMIN")]
+       // [Authorize(Roles = "ADMIN")]
         public ResponseDto Delete(int id)
         {
             try

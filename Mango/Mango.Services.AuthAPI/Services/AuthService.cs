@@ -41,10 +41,10 @@ namespace Mango.Services.AuthAPI.Services
                     var userToReturn = _db.ApplicationUsers.First(u => u.UserName == registrationRequestDto.Email);
                     UserDto userDto = new UserDto()
                     {
-                        Email = userToReturn.Email,
+                        Email = userToReturn.Email??"",
                         ID = userToReturn.Id,
                         Name = userToReturn.Name,
-                        PhoneNumber = userToReturn.PhoneNumber
+                        PhoneNumber = userToReturn.PhoneNumber?? ""
                     };
                     return "";
                 }
