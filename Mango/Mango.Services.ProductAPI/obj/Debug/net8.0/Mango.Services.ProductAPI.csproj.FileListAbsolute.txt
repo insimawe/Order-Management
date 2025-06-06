@@ -167,7 +167,6 @@ C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Service
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mango.Services.ProductAPI.props
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mango.Services.ProductAPI.props
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Se.3A3FF629.Up2Date
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Services.ProductAPI.dll
 C:\Users\Lynsie Marie\Desktop\Projects\.Net\Order-Management\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\refint\Mango.Services.ProductAPI.dll

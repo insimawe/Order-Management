@@ -7,7 +7,7 @@
     <br />
     <div class="container border p-3">
         <h1 class="text-white text-center">Delete Product</h1>
-        <input disabled asp-for="ProductId" hidden />
+        <input  asp-for="ProductId" hidden />
         <hr />
 
         <div class="row">
@@ -27,7 +27,7 @@
                 <label class="control-label pt-2" style="font-size:20px;">Description</label>
             </div>
             <div class="col-10 pb-3">
-                <textarea disabled asp-for="Description" class="form-control" rows="5"  />
+                <textarea disabled asp-for="Description" class="form-control" rows="5"></textarea>
             </div>
             <div class="col-2">
                 <label class="control-label pt-2" style="font-size:20px;">ImageUrl</label>
@@ -45,7 +45,7 @@
                 <a class="btn-primary btn form-control " asp-action="ProductIndex">Back to List</a>
             </div>
             <div class="col-5">
-                <input disabled type="submit" value="Delete" class="btn btn-success form-control" />
+                <input  type="submit" value="Delete" class="btn btn-success form-control" />
             </div>
         </div>
 

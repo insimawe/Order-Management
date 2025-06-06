@@ -1,7 +1,7 @@
 ﻿@using Mango.Web.Model.Dto
 @model ProductDto
 
-<form asp-net="ProductCreate">
+<form asp-action="ProductCreate">
     <br />
     <div class="container border p-3">
         <h1 class="text-white text-center">Create Product</h1>
@@ -25,7 +25,7 @@
                 <label class="control-label pt-2" style="font-size:20px;">Description</label>
             </div>
             <div class="col-10 pb-3">
-                <textarea disabled asp-for="Description" class="form-control" rows="5" />
+                <textarea  asp-for="Description" class="form-control" rows="5"></textarea>
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
             <div class="col-2">
@@ -52,3 +52,6 @@
     </div>
 </form>
 
+@section Scripts {
+    <partial name="_ValidatioNScriptsPartial" />
+}
